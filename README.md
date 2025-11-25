@@ -117,10 +117,14 @@ int main(void)
 ```
 
 ## OUTPUT
-### OFF
-   ![exp_1 off](https://github.com/user-attachments/assets/b7cba62e-5866-4abc-911a-9eabcb3c667f)
-### ON
-   ![exp_1 on](https://github.com/user-attachments/assets/0c718af8-20af-4722-a49d-134a09338c82)
+## OFF
+
+![WhatsApp Image 2025-03-13 at 11 41 19_ab29526c](https://github.com/user-attachments/assets/59e12d6a-1965-45ff-aad4-ea62ecaa4d46)
+
+
+## ON
+
+![WhatsApp Image 2025-03-13 at 11 41 20_16d0f6ce](https://github.com/user-attachments/assets/95ecea4e-e845-46ae-bec6-b5d72710c574)
    
 ## Result
 
